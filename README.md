@@ -82,14 +82,14 @@ If you use custom/quickcss, paste the CSS at the very top!
 
 Paste the following in `Settings > Themes`:
 
-- `https://milbits.github.io/oldcord/src/main.css`
+- `https://belufelu.github.io/oldcord/src/main.css`
 
 ## 🎛️ Other
 
 1. Paste the following at **the top** of the CSS file/window:
 
 ```css
-@import url("https://milbits.github.io/oldcord/src/main.css");
+@import url("https://belufelu.github.io/oldcord/src/main.css");
 ```
 
 
