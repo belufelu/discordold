@@ -73,7 +73,7 @@ If you use custom/quickcss, paste the CSS at the very top!
 
 #### Local method
 
-1. Download [OldCord.theme.css](https://raw.githubusercontent.com/belufelu/oldcord/main/OldCord.theme.css) (right-click > "Save As")
+1. Download [OldCord.theme.css](https://raw.githubusercontent.com/belufelu/discordold/main/OldCord.theme.css) (right-click > "Save As")
 2. Move the file to the Vencord theme folder:
 
 - `Settings > Themes > Open theme folder`
@@ -82,14 +82,14 @@ If you use custom/quickcss, paste the CSS at the very top!
 
 Paste the following in `Settings > Themes`:
 
-- `https://belufelu.github.io/oldcord/src/main.css`
+- `https://belufelu.github.io/discordold/src/main.css`
 
 ## 🎛️ Other
 
 1. Paste the following at **the top** of the CSS file/window:
 
 ```css
-@import url("https://belufelu.github.io/oldcord/src/main.css");
+@import url("https://belufelu.github.io/discordold/src/main.css");
 ```
 
 
